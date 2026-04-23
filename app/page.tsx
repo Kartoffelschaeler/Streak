@@ -9,7 +9,6 @@ export default function Home() {
     <main className="page">
       <section className="streak" aria-label={`${streak} Tage Streak`}>
         <div className="number">{streak}</div>
-        <div className="label">days</div>
       </section>
     </main>
   );
