@@ -1,7 +1,7 @@
 export const STREAK_TIME_ZONE = "Europe/Berlin";
 
 // Change this date to the first day of your streak. Format: YYYY-MM-DD.
-export const STREAK_START_DATE = "2025-04-23";
+export const STREAK_START_DATE = "2026-04-23";
 
 const DATE_FORMATTER = new Intl.DateTimeFormat("en-CA", {
   timeZone: STREAK_TIME_ZONE,
